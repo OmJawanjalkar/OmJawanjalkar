@@ -33,17 +33,11 @@ Agentic AI Systems, Behavioral Anomaly Detection, Reinforcement Learning, Optimi
 
 ## 🚀 Major Projects
 
-### 🧠 CyberSentinel AI  
-AI-powered Insider Threat Detection System using behavioral analytics, NLP & anomaly detection.
+### 🧠 Student Performance Prediction
+Machine learning project to predict student math scores based on demographic and academic factors.
 
-### 💊 MediChain AI  
-Drug interaction and prescription optimization system using NLP + Knowledge Graphs.
-
-### 📅 Emotion-Aware Smart Scheduler  
-Predicts optimal productivity time using sentiment analysis, sleep & activity data.
-
-### 🏥 Clinical Decision Support System  
-ICU readmission prediction model using PSO + Ensemble ML + Explainable AI.
+### 📅 MLOps-Based Network Security 
+An end-to-end MLOps pipeline that automates data ingestion, validation, model training, and artifact management to detect and classify malicious network traffic.
 
 ---
 
