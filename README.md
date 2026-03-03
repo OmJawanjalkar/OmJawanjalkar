@@ -52,7 +52,9 @@ An end-to-end MLOps pipeline that automates data ingestion, validation, model tr
 ## 📬 Connect With Me
 
 🔗 LinkedIn: https://www.linkedin.com/in/om-jawanjalkar/
+
 💻 GitHub: https://github.com/OmJawanjalkar  
+
 📧 Email: omjawanjalkar@gmail.com
 
 ---
