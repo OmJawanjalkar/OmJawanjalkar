@@ -22,16 +22,6 @@ I enjoy building practical AI and Machine Learning solutions while continuously 
 
 ---
 
-## 🚀 Featured Projects
-
-- 🎓 **Student Performance Prediction**
-  - End-to-end Machine Learning project for predicting student exam performance.
-
-- 🔐 **Network Security**
-  - MLOps project for detecting malicious network activity using automated ML pipelines.
-
----
-
 ## 🎯 Goals
 
 - Build production-ready AI applications
