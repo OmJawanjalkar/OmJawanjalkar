@@ -9,16 +9,7 @@ I enjoy building practical AI and Machine Learning solutions while continuously 
 
 ## 🚀 Currently Working On
 
-- 🤖 Machine Learning
-- 🧠 Deep Learning
-- 💬 Natural Language Processing (NLP)
-- 🔍 Large Language Models (LLMs)
-- 🔗 LangChain
-- 📚 Retrieval-Augmented Generation (RAG)
-- ⚙️ MLOps
-- 📊 Data Analysis
-- 🗄️ SQL & Databases
-- 📈 Power BI
+🤖 Machine Learning • 🧠 Deep Learning • 💬 NLP • 🔍 LLMs • 🔗 LangChain • 📚 RAG • ⚙️ MLOps • 📊 Data Analysis • 🗄️ SQL • 📈 Power BI
 
 ---
 
