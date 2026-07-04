@@ -13,7 +13,7 @@ I enjoy building practical AI and Machine Learning solutions while continuously 
 
 ---
 
-## 🎯 Goals
+##  🎯 Goals
 
 - Build production-ready AI applications
 - Strengthen Machine Learning & Deep Learning skills
