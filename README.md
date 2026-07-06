@@ -70,12 +70,12 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OmJawanjalkar&show_icons=true&theme=default&hide_border=true" alt="Om's GitHub stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=OmJawanjalkar&hide_border=true" alt="Om's GitHub streak" width="48%" />
+  <img src="./stats.svg" alt="Om's GitHub stats" width="48%" />
+  <img src="./streak.svg" alt="Om's GitHub streak" width="48%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OmJawanjalkar&layout=compact&hide_border=true" alt="Top languages" />
+  <img src="./top-langs.svg" alt="Top languages" />
 </p>
 
 ---
