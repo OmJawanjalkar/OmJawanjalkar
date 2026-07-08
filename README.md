@@ -47,15 +47,6 @@
 
 ---
 
-### 🎯 Current Goals
-
-- 🚀 Build and ship production-ready AI applications
-- 📈 Strengthen core Machine Learning & Deep Learning fundamentals
-- 🧠 Learn and apply Generative AI & Agentic AI systems
-- 🤝 Contribute to open-source AI/ML projects
-- 💼 Land a role as a Data Scientist / ML Engineer
-
----
 
 ### 📌 Featured Projects
 
