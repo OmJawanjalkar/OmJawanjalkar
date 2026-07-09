@@ -58,19 +58,6 @@
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="./stats.svg" alt="Om's GitHub stats" width="48%" />
-  <img src="./streak.svg" alt="Om's GitHub streak" width="48%" />
-</p>
-
-<p align="center">
-  <img src="./top-langs.svg" alt="Top languages" />
-</p>
-
----
-
 ### 📫 Let's Connect
 
 <p align="left">
