@@ -18,12 +18,12 @@
 
 ### 👨‍💻 About Me
 
-- 🎓 Computer Engineering Graduate (Data Science)
-- 💡 Passionate about building **practical, production-ready AI/ML solutions**
-- 🔭 Currently deepening my skills in **Generative AI** and **Agentic AI**
-- 🌱 Always learning — Machine Learning, Deep Learning, NLP, and MLOps
-- 🎯 Goal: Start my career as a **Data Scientist / ML Engineer**
-- ⚡ Fun fact: I enjoy turning messy data into clean, useful insights
+  - 🎓 Computer Engineering Graduate (Data Science)
+  - 💡 Passionate about building **practical, production-ready AI/ML solutions**
+  - 🔭 Currently deepening my skills in **Generative AI** and **Agentic AI**
+  - 🌱 Always learning — Machine Learning, Deep Learning, NLP, and MLOps
+  - 🎯 Goal: Start my career as a **Data Scientist / ML Engineer**
+  - ⚡ Fun fact: I enjoy turning messy data into clean, useful insights
 
 ---
 
