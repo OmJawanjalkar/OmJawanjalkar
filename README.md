@@ -66,4 +66,4 @@
   <a href="https://github.com/OmJawanjalkar">GitHub</a>
 </p>
 
-<p align="center"><i>⭐ Open to collaborations, open-source contributions, and opportunities in Data Science & Machine Learning.</i></p>
+<p align="center"><i>⭐ Open to collaborations,  open-source contributions, and opportunities in Data Science & Machine Learning.</i></p>
