@@ -1,4 +1,4 @@
-<h1 align="center">Hi there, I'm Om Jawanjalkar 👋    </h1>
+<h1 align="center">Hi there, I'm Om Jawanjalkar  </h1>
 
 <h3 align="center">Aspiring Data Scientist | Machine Learning & AI Enthusiast</h3>
 
